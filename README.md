@@ -1,6 +1,10 @@
 # Delphi-APTIV-F135200-footprint-for-Kicad
 Delphi/APTIV F135200 footprint for Kicad
 
+should also be compatible with 211PL562L0011
+
+NOTE: Still haven't tested it on an actual PCB, use it at your own risk :P
+
 ![F135200](F135200.png)
 
 Here you can find the KiCad footprint for the F135200 connector.
